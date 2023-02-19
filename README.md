@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working as a System Engineer **at Frontiir**
 
-- 🌱 I’m currently learning **Kubernetes, AWS**
-
 - 📫 How to reach me **waiphyo.127.0.0.1@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
