@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **waiphyo.127.0.0.1@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
