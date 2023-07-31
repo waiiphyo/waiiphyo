@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a System Engineer **at Frontiir**
 
-- 📫 How to reach me **waiphyo.127.0.0.1@gmail.com**
+- 📫 How to reach me **waiphyo341998@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
 
