@@ -1,12 +1,12 @@
 ![logo](https://github.com/waiiphyo/waiphyo/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Wai Phyo</h1>
-<h3 align="center">A System Engineer from Myanmar</h3>
+<h3 align="center">A Platform Engineer from Myanmar</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/waiiphyo/waiphyo/blob/main/photo.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waiiphyo&label=Profile%20views&color=0e75b6&style=flat" alt="waiiphyo" /> </p>
 
-- 🔭 I’m currently working as a System Engineer **at Frontiir**
+- 🔭 I’m currently working as a Platform Engineer **at True Money**
 
 - 📫 How to reach me **waiphyo341998@gmail.com**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wai-phyo-5307081bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wai phyo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/waiiphyo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wai phyo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
